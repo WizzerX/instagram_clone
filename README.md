@@ -13,14 +13,4 @@
 
 ************************************************************************************************
 
- 🚀 Features
-
-- 🧱 Block creation and linking
-- 🔐 SHA-256 hashing
-- 🏗 Proof-of-Work (configurable difficulty)
-- 📦 Transaction simulation
-- ⛓ Complete chain validation
-- 🕸 Optional P2P communication (if added)
-- 📘 Educational code structure, well-commented
-
-************************************************************************************************
+ 
